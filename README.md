@@ -29,7 +29,7 @@
 - [📝 License](#license)
 
 # 📖 [ES6 Books] <a name="about-project"></a>
-This is pair-programming based website related to the ES6 Book. You can add the list of your favourite books with their author name. And also you can remove any book by clicking on the remove button and it will give you the functionality of adding and removing the book from your personal Book list anytime when you  desire to do that.
+This is a website that uses modules to export and import file, that is the calling of codes from a different file and being imported with the use of some syntax. the website adds and remove books by pressing on the add and remove button
 
 ## 🛠 Built With <a name="built-with"></a>
 
